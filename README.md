@@ -13,6 +13,22 @@ SharePoint Framework (SPFx) dashboard using Microsoft Graph to display Microsoft
 - Show Degraded Only Toggle
 - Manual Refresh
 - Responsive Fluent UI interface
+## Screenshots
+
+### Service Health Overview
+![Service Health Overview](screenshots/1.jpg)
+
+### Message Center
+![Service Announcements](screenshots/2.jpg)
+
+### Selected Service Details
+![Selected Service Details](screenshots/3.jpg)
+
+### Message Center Details
+![Message Center Details](screenshots/4.jpg)
+
+### Related Issues View
+![Related Issues View](screenshots/5.jpg)
 
 ## Tech Stack
 
