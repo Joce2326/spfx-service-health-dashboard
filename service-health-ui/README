@@ -1,0 +1,5 @@
+## Environment variables
+
+Create a `.env` file based on `.env.example`.
+
+Do not commit `.env` or any Azure app registration secrets.

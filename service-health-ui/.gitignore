@@ -1,0 +1,16 @@
+node_modules
+dist
+lib
+temp
+release
+sharepoint
+*.sppkg
+
+.env
+.env.local
+.env.development
+.env.production
+
+*.log
+.DS_Store
+.vscode/settings.json
